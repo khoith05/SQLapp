@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\bin\\Release\\netcoreapp3.1",
+    "\\bin\\Release\\netcoreapp3.1\\runtimes\\win-x64",
+    "\\bin\\Release\\netcoreapp3.1\\runtimes\\win-x64\\native"
+  ],
+  "SelectedNode": "\\SQLapp.sln",
+  "PreviewInSolutionExplorer": false
+}
